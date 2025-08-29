@@ -1,2 +1,2 @@
 # Admin-Anonymous
-Repository for all things Registry
+Repository for supporting systems and database administrators.
